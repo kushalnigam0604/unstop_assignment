@@ -1,0 +1,18 @@
+.AssessmentOverviewDigitDataOuterDiv {
+  display: flex;
+  align-items: center;
+}
+.AssessmentOverviewDigitDataLargeNumber {
+  font-size: larger;
+  font-weight: bold;
+  color: rgb(50, 84, 119);
+}
+.AssessmentOverviewDigitDataSmalNumber {
+  font-size: small;
+  color: rgb(4, 204, 4);
+  margin-left: 3px;
+}
+.AssessmentOverviewDigitDataText{
+    font-size: small;
+    color: rgb(50, 84, 119);
+}

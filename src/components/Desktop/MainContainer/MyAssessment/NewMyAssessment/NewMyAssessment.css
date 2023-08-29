@@ -1,0 +1,34 @@
+.newMyAssessment{
+    border: 1px dotted;
+    border-radius: 15px;
+    background-color: rgb(231, 229, 229);;
+    width: 30%;
+    padding: 35px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.newMyAssessmentIcon{
+    background-color: white;
+    padding: 15px;
+    font-size: x-large;
+    color: rgb(0, 195, 255);
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.newMyAssessmentTitle{
+    color: rgb(50, 84, 119);
+    font-weight: bold;
+    font-size: large;
+    margin-bottom: 8px;
+}
+.newMyAssessmentPara{
+    color: rgb(50, 84, 119);
+    font-size: small;
+    text-align: center;
+}
+
+
+

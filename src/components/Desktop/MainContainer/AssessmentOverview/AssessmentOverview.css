@@ -1,0 +1,47 @@
+.assessmentOverview{
+    padding: 20px 0px;
+}
+.assessmentOverviewSpan{
+    font-size: larger;
+    font-weight: bold;
+    margin: 0px 0px 18px 20px;
+    color: rgb(50, 84, 119);
+}
+.assessmentOverviewDataDiv{
+    border: 1px solid rgb(212, 211, 211);
+    border-radius: 15px;
+    width: 98%;
+    margin: auto;
+    display: flex;
+}
+.assessmentOverviewDataDivContentIcon{
+    background-color: rgb(208, 208, 236);
+    color: rgb(3, 3, 180);
+    padding: 8px;
+    border-radius: 7px;
+    align-self: flex-start;
+    display: flex;
+    align-items: center;
+    font-size: large;
+}
+.assessmentOverviewDataFourDiv{
+    padding: 15px;
+}
+.assessmentOverviewDataFourDiv > span{
+    font-size: small;
+    font-weight: bold;
+    color: rgb(50, 84, 119);
+}
+.assessmentOverviewDataBlankDiv{
+    border-right: 1px solid rgb(212, 211, 211);
+}
+.assessmentOverviewDataDivContent{
+    padding: 20px 10px 10px 0px;
+    display: flex;
+}
+.assessmentOverviewDataDivContentBlank{
+    border-right: 1px solid rgb(212, 211, 211);
+}
+.assessmentOverviewDataDivContentDigitData{
+    margin: 0px 15px 0 10px;
+}

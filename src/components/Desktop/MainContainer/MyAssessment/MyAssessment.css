@@ -1,0 +1,17 @@
+.myAssessment{
+    border: 1px solid red;
+    width: 98%;
+    margin: auto;
+}
+.myAssessmentHeading{
+    color: yellow;
+}
+.myAssessmentContainer{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.kk{
+    border: 1px solid green;
+    width: 30%;
+}

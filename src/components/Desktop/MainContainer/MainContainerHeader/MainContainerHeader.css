@@ -1,0 +1,33 @@
+.mainContainerHeader{
+    border-bottom: 1px solid rgb(212, 211, 211);
+    padding: 10px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.mainContainerLeftHeader{
+    width: 25%;
+    margin-left: 18px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.assessmentSpan{
+    font-size: 20px;
+    font-weight: 900;
+    color: rgb(50, 84, 119);
+}
+.blankAssessmentSpan{
+    border: 1px solid rgb(212, 211, 211);
+    height: 35px;
+}
+.myAssessmentSpan{
+    font-size: 15px;
+    color: rgb(2, 126, 209);
+    font-weight: 600;
+}
+.mainContainerRightHeader{
+    font-size: larger;
+    margin-right: 20px;
+    cursor: pointer;
+}
